@@ -1,0 +1,13 @@
+[project]
+name = "example_package"
+version = "0.0.1"
+dependencies = ["numpy>=1.26.1"]
+authors = [{ name = "Ned Stark", email = "stark@example.com" }]
+description = "A small example package"
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "License :: OSI Approved :: MIT License",
+  "Operating System :: OS Independent",
+]
